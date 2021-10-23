@@ -18,7 +18,7 @@
           on live projects.
         </h1>
         <a
-          href="cv.jpg"
+          href="Kiss_Szabolcs_CV.jpg"
           download="Kiss_Szabolcs_CV"
           class="flex items-center text-xs md:text-base mt-5 py-2 md:py-3 px-3 md:px-6 rounded-xl text-white bg-primary hover:text-gray-500 transition ease-in-out duration-500"
         >

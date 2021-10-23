@@ -27,7 +27,8 @@
         <button
           class="text-base py-3 px-5 rounded-xl ml-1 text-white bg-primary transition duration-300 ease-in-out transform hover:scale-110 md:text-xl"
         >
-          contact me<i class="fas fa-paper-plane ml-3"></i>
+          <a href="#contact">contact me</a
+          ><i class="fas fa-paper-plane ml-3"></i>
         </button>
       </div>
     </div>
